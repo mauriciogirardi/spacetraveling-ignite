@@ -64,9 +64,9 @@ _Configurações dos serviços estão localizadas no arquivo [prismic.md](./pris
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone
+$ git clone https://github.com/mauriciogirardi/spacetraveling-ignite.git
 # Entre na pasta do repositório clonado
-$ cd
+$ cd spacetraveling-ignite
 ```
 
 ### **Iniciando o projeto**
